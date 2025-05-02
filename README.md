@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI/ML Engineer
 --------------
 
-I am an AI/ML engineeer passionate about building AI systems that solve real-world problems. 🧠 I work on: - Computer Vision (image classification, detection, segmentation) - MLOps workflows for scalable AI deployments - Regression & classification models on structured data
+I am an AI/ML engineeer passionate about building AI systems that solve real-world problems. 
+* 🧠 I work on:
+  Computer Vision (image classification, detection, segmentation),
+  MLOps workflows for scalable AI deployments,
+  Regression & classification models on structured data
 
 * 🌍  I'm based in DELHI
 * ✉️  You can contact me at [vaibhavgupta18062003@gmail.com](mailto:vaibhavgupta18062003@gmail.com)
