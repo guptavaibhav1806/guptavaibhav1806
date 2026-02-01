@@ -10,7 +10,7 @@ I am an AI/ML engineeer passionate about building AI systems that solve real-wor
   MLOps workflows for scalable AI deployments,
   Regression & classification models on structured data
 
-* 🌍  I'm based in DELHI
+* 🌍  I'm based in BENGALURU
 * ✉️  You can contact me at [vaibhavgupta18062003@gmail.com](mailto:vaibhavgupta18062003@gmail.com)
 
 <a href="https://www.github.com/guptavaibhav1806" target="_blank" rel="noreferrer"><img
